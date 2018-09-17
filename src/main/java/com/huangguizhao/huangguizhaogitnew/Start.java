@@ -5,5 +5,6 @@ public class Start {
         System.out.println("添加了main方法");
         System.out.println("2018到此一游");
         System.out.println("2018");
+        System.out.println("修复了bug");
     }
 }
